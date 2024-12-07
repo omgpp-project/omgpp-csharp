@@ -13,9 +13,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\OmgppSharpClient\OmgppSharpClient.csproj" />
+    <ProjectReference Include="..\OmgppSharpClientServer\OmgppSharpClientServer.csproj" />
     <ProjectReference Include="..\OmgppSharpCore\OmgppSharpCore.csproj" />
-    <ProjectReference Include="..\OmgppSharpServer\OmgppSharpServer.csproj" />
   </ItemGroup>
 
 </Project>

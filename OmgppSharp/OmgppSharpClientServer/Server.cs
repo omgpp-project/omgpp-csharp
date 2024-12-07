@@ -8,9 +8,8 @@ using System.Net;
 using System.Net.Http.Headers;
 using System.Runtime.InteropServices;
 using System.Text;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
-namespace OmgppSharpServer
+namespace OmgppSharpClientServer
 {
     unsafe public class Server : IDisposable
     {

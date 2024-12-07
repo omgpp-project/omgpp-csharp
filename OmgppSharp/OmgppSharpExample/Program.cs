@@ -3,9 +3,9 @@ using System.Text;
 using awd.awd;
 using Google.Protobuf;
 using OmgppNative;
-using OmgppSharpClient;
+using OmgppSharpClientServer;
 using OmgppSharpCore;
-using OmgppSharpServer;
+using OmgppSharpClientServer;
 using Sample.Messages;
 namespace OmgppSharpExample
 {

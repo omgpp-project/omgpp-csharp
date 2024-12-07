@@ -2,9 +2,8 @@
 using System.Net;
 using System.Runtime.InteropServices;
 using System.Text;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
-namespace OmgppSharpClient
+namespace OmgppSharpClientServer
 {
     unsafe public class Client : IDisposable
     {

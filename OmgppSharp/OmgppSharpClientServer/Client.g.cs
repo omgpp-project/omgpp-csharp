@@ -12,7 +12,7 @@ namespace OmgppNative
 {
     public static unsafe partial class OmgppClientNative
     {
-        const string __DllName = "client";
+        const string __DllName = "client_server";
 
 
 
